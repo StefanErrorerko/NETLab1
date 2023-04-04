@@ -1,5 +1,7 @@
 # NETLab1
 
+Lab1 | 15 different queries using LINQ
+
 Музика Стефан
 ІС-02
 11-й варіант
